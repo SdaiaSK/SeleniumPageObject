@@ -34,7 +34,7 @@ public class LoginPage {
 	    submit_button.click();
 	    
 	    
-	    public void clickingcontactbuttons();
+	
 	    
 	    
 	    
